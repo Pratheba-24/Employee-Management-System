@@ -2,7 +2,7 @@
   "name": "ems",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://yourusername.github.io/Employee-Management-System",
+  "homepage": "https://Pratheba-24.github.io/Employee-Management-System",
   "scripts": {
     "client": "npnm start --prefix client",
     "server": "npm start --prefix server",
