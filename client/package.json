@@ -1,6 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "homepage": "https://pratheba-24.github.io/Employee-Management-System/",
   "private": true,
   "proxy": "http://localhost:3030",
   "dependencies": {
